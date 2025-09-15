@@ -18,5 +18,8 @@
     <ClCompile Include="Begining.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Level 1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,7 +1,6 @@
-
 #include <iostream>
 using namespace std;
-int main ()
+int main()
 {
 	//this is a lesson about the difference between \n and endl
 
