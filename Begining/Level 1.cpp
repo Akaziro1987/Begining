@@ -4,7 +4,8 @@ int main()
 {
 	//this is a lesson about the difference between \n and endl
 
-	cout << "Guide?" << endl;
+	cout << "\a";
+	cout << "This is a \"GUIDE\" " << endl;
 	cout << "what is the difference between those functions? (\\n and endl)" << endl;
 	cout << "both are used to create a new line" << endl;
 	cout << "endl is used to flush the buffer" << endl;
@@ -15,7 +16,15 @@ int main()
 	cout << "so if you want to use endl\n";
 	cout << "use it only when you need to flush the buffer" << endl;
 	cout << "otherwise use \\n" << endl;
-	cout << "the end!" << endl;
+	cout << "the end!\n\n\n\n";
+
+
+
+
+	cout << "Dear my BESTO\\FRIENDO\n";
+	cout << "how are you?\n";
+	cout << "My name is \"Omar\" " << endl;
+	cout << "Ok\ti understand\tnow\tnow\tGo";
 
 	return 0;
 
